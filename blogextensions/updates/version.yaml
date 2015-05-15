@@ -1,0 +1,15 @@
+1.0.1: First version of BlogExtensions
+1.0.2:
+    - Created job details table in the database
+    - Set relationships between RainLab.Blog's Post and HalmiSpace.BlogExtensions's JobDetails models.
+    - Created secondary tab Job details in RainLab.Blog Posts controller
+1.0.3:
+    - Reference the script
+    - create_job_details_table.php
+1.0.4:
+    - Changed id column to post_id
+    - create_job_details_table.php
+
+1.0.5:
+    - Added index field
+    - create_job_details_table.php
